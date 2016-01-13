@@ -79,6 +79,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Add Two Numbers.cpp" />
+    <ClCompile Include="Longest Substring Without Repeating Characters.cpp" />
     <ClCompile Include="two sum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

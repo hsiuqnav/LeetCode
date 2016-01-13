@@ -21,5 +21,8 @@
     <ClCompile Include="Add Two Numbers.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Longest Substring Without Repeating Characters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
