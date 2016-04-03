@@ -27,9 +27,3 @@ public:
 		return s.substr(start, max_length);
 	}
 };
-
-int main() {
-	Solution s;
-	string e = "abcdddcerd";
-	cout << s.longestPalindrome(e) << endl;
-}

@@ -1,20 +1,20 @@
-﻿生成启动时间为 2016/3/1 13:15:01。
+﻿生成启动时间为 2016/4/3 23:52:31。
      1>项目“C:\Users\Liuyijia\Documents\GitHub\LeetCode\LeetCode\LeetCode.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Longest Palindromic Substring.cpp"
-         Longest Palindromic Substring.cpp
-     1>c:\users\liuyijia\documents\github\leetcode\leetcode\longest palindromic substring.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
-     1>c:\users\liuyijia\documents\github\leetcode\leetcode\longest palindromic substring.cpp(13): warning C4018: “>”: 有符号/无符号不匹配
-     1>c:\users\liuyijia\documents\github\leetcode\leetcode\longest palindromic substring.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Reverse Integer.cpp"
+         Reverse Integer.cpp
+     1>c:\users\liuyijia\documents\github\leetcode\leetcode\reverse integer.cpp(38): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Liuyijia\Documents\GitHub\LeetCode\Debug\LeetCode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Liuyijia\Documents\GitHub\LeetCode\Debug\LeetCode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Liuyijia\Documents\GitHub\LeetCode\Debug\LeetCode.lib" /MACHINE:X86 "Debug\Add Two Numbers.obj"
          "Debug\Longest Palindromic Substring.obj"
          "Debug\Longest Substring Without Repeating Characters.obj"
          "Debug\Median of Two Sorted Arrays.obj"
+         "Debug\Reverse Integer.obj"
          "Debug\two sum.obj"
+         "Debug\ZigZag Conversion.obj"
          LeetCode.vcxproj -> C:\Users\Liuyijia\Documents\GitHub\LeetCode\Debug\LeetCode.exe
      1>已完成生成项目“C:\Users\Liuyijia\Documents\GitHub\LeetCode\LeetCode\LeetCode.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:02.49
+已用时间 00:00:01.01
