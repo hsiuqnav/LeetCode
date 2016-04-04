@@ -36,5 +36,14 @@
     <ClCompile Include="Reverse Integer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="String to Integer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Palindrome Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Regular Expression Matching.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

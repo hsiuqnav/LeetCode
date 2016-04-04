@@ -38,7 +38,3 @@ private:
 		return result;
 	}
 };
-
-int main(){
-
-}
